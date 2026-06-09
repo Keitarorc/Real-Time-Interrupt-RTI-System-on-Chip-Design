@@ -1,2 +1,3 @@
 # Real-Time-Interrupt-RTI-System-on-Chip-Design
 Building a complete hardware/software system by creating a custom AXI4-Lite peripheral IP that implements a simplified real-time interrupt (RTI) module. There are two parts to this design which are the RTI Generator and an Interrupt Generator module. The RTI Generator produces a periodic 1 millisecond pulse derived from a 50MHz system clock and the Interrupt Generator module converts each RTI event into a level-triggered interrupt that remain asserted until cleared by software.
+<img width="1760" height="712" alt="image" src="https://github.com/user-attachments/assets/7ea2fce0-833c-4886-9c12-1e6b9e01f202" />
